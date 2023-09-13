@@ -95,6 +95,7 @@
     height: 20px;
     border-radius: 50%;
     background-color: #ef5e5e;
+    box-shadow:2px 5px 6px rgba(128,128,128,0.25);
 }
 .c2{
     width: 12.5%;
