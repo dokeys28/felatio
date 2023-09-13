@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    width: 431px;
+    height: 926px;
+    background-color: #ffffff;
+    border-radius: 30px;
+}
+
+.cuadro_imagen{
+    background-color: red;
+    width: 431px;
+    height: 431px;
+}
+
+.imagen_producto{
+    width: 431px;
+    height: 431px;
+}
+
+.texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    color: #441870;
+    margin:0% 20%;
+    padding-bottom: 50px;
+    background-color: #ffffff;
+}
+
+.texto p{
+    padding-bottom: 17px;
+    background-color: #ffffff;
+}
+.precio{
+
+    font-size: 25px;
+}
+
+.botones{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ffffff;
+    
+}
+
+.comprar{
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19.5px;
+    font-family: 'Work Sans';
+    margin: 5% 20%;
+}
+.agregar_al_carrito{
+    height: 50px;
+    border-radius: 30px;
+    font-size: 19.5px;
+    font-family: 'Work Sans';
+    margin: 0% 20%;
+
+}
+
+
+.comprar{
+    color: white;
+    background-color: #441870;
+
+}
+
+.agregar_al_carrito{
+    color:#441870;
+    background-color: #ffffff;
+}
+
+.colores{
+    display: flex;
+    flex-direction: row;
+    margin:0 20% 20% 20%;
+    background-color: #ffffff;
+    
+
+}
+
+.colores button{
+    margin:0 5px;
+}
+.c1{
+    width: 12.5%;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #ef5e5e;
+}
+.c2{
+    width: 12.5%;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #efb55e;
+}
+.c3{
+    width: 12.5%;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #f2df33;
+}
+.c4{
+    width: 12.5%;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #4ae523;
+}
+
+.c5{
+    width: 12.5%;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #5eefcc;
+}
+.c6{
+    width: 12.5%;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #5e98ef;
+}
+.c7{
+    width: 12.5%;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #a75eef;
+}
+.c8{
+    width: 12.5%;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #ec5eef;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    margin:0 20%;
+}
